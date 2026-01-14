@@ -1,0 +1,20 @@
+# Task Tracker CLI 📋
+
+A simple command-line task manager built with Python that helps you organize your todos with local JSON storage.
+
+## ✨ Features
+- Add new tasks with descriptions
+- List all tasks with completion status
+- Mark tasks as complete
+- Delete tasks you no longer need
+- Data persists in JSON file between sessions
+
+## 🚀 Quick Start
+
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/YOUR-USERNAME/task-tracker.git
+
+# Navigate to project folder
+cd task-tracker
